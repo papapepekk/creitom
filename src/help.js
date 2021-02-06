@@ -1,3 +1,4 @@
+
 const help = (prefix) => { 
 	return `                 
 <══════════════════════>
@@ -33,8 +34,6 @@ const help = (prefix) => {
  ┣⊱ *${prefix}memeindo*
  ┣⊱ *${prefix}hilih*
  ┣⊱ *${prefix}fitnah*
- ┣⊱ *${prefix}truth*
- ┣⊱ *${prefix}bucin*
  ┣⊱ *${prefix}persengay*(nivel gay)
 
  ┣━━✓ *Anime* ✓━━
@@ -57,7 +56,6 @@ const help = (prefix) => {
  ┣⊱ *${prefix}fototiktok*
  ┣⊱ *${prefix}map*
  ┣⊱ *${prefix}kbbi*
- ┣⊱ *${prefix}artinama*(o significado do nome)
  ┣⊱ *${prefix}infogempa (informações sobre terremoto)*
  ┣⊱ *${prefix}quotes*(citações)
  ┣⊱ *${prefix}cerpen*(historia curta)
@@ -116,4 +114,3 @@ exports.help = help
 
 
   
-
