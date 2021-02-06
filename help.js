@@ -55,7 +55,6 @@ const help = (prefix) => {
  ┣⊱ *${prefix}shorturl*(url curto)
  ┣⊱ *${prefix}fototiktok*
  ┣⊱ *${prefix}map*
- ┣⊱ *${prefix}kbbi*
  ┣⊱ *${prefix}infogempa (informações sobre terremoto)*
  ┣⊱ *${prefix}quotes*(citações)
  ┣⊱ *${prefix}cerpen*(historia curta)
@@ -97,7 +96,6 @@ const help = (prefix) => {
  ┣⊱ *${prefix}owner*
  ┣⊱ *${prefix}info*
  ┣⊱ *${prefix}botstat*
- ┣⊱ *${prefix}bug*
  ┣⊱ *${prefix}ping
 se quiser falar com meu dono,chame ele neste numero:wa.me/+5561993845817 :)
          
