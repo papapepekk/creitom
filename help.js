@@ -56,7 +56,6 @@ const help = (prefix) => {
  ┣⊱ *${prefix}fototiktok*
  ┣⊱ *${prefix}map*
  ┣⊱ *${prefix}kbbi*
- ┣⊱ *${prefix}artinama*(o significado do nome)
  ┣⊱ *${prefix}infogempa (informações sobre terremoto)*
  ┣⊱ *${prefix}quotes*(citações)
  ┣⊱ *${prefix}cerpen*(historia curta)
